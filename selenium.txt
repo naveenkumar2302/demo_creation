@@ -20,3 +20,5 @@ Download multiple files to a folder from an user protected page
 JavascriptExecutor
 
 Test suite looks like readable test description with comments 
+
+hiding the last changes
