@@ -1,0 +1,22 @@
+site: canva.com
+signup page: https://www.canva.com/signup
+
+requriments:
+E-mail checking (eg. Registration with activation e-mail)
+Logout
+Fill simple form and send (eg. Login)
+Form sending with user
+Fill input (text,radio,check...)
+Static Page test
+Multiple page test from array (easily extendable static page tests)
+complex xpath (eg. //div//a[@href='asd'])
+Reading the page title
+At least 4 class
+History test (browser back button)
+
+Manipulate cookie meaningfully (without ui), e.g. avoid showing up consent popup
+File Upload (Drag&Drop)
+Download multiple files to a folder from an user protected page
+JavascriptExecutor
+
+Test suite looks like readable test description with comments 
